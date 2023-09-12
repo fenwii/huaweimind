@@ -1,17 +1,15 @@
 
-<div align="center">
-  <img width="200" alt='自古英雄多磨难' src="http://xinsheng-image.huawei.com/cn/forumimage/showimage-5620951-17a9878d770570e3323759721ca5cc24_d0cfd11270d55ee0e2b16a3494fbb0b2-thumb.jpg">	
-  <h1>华为公司文件-任正非思想之路
-</h1>
-  <p>华为，中华有为，这里收录了任正非讲话稿785篇，从1994年到2022年，从深圳、中国到东南亚、非洲、欧洲、美洲，从研发、市场、服务到财经、人力资源、战略、内控与公共关系，从交换机、通讯设备、移动终端到人工智能、物联网，从2G、3G到4G、5G，从物理学、化学、数学到心理学、哲学，从……到……，穿越时空看华为大幕如何徐徐展开，观任正非大家成长进化，向优秀学习，与时代共舞。
-华为视角看世界，任总思维看问题。</p>
-  <p>
-    <a href="https://github.com/fenwii/huaweimind/releases"><img src="https://img.shields.io/github/v/release/fenwii/huaweimind"></a>
-    <a href="https://github.com/fenwii/huaweimind"><img src="https://img.shields.io/github/downloads/fenwii/huaweimind/total"></a>
-  </p>
-</div>
+# 华为公司文件-任正非思想之路
 
+![自古英雄多磨难](http://xinsheng-image.huawei.com/cn/forumimage/showimage-5620951-17a9878d770570e3323759721ca5cc24_d0cfd11270d55ee0e2b16a3494fbb0b2-thumb.jpg)
 
+###
+华为，中华有为，这里收录了任正非讲话稿787篇，从1994年到2023年，从深圳、中国到东南亚、非洲、欧洲、美洲，从研发、市场、服务到财经、人力资源、战略、内控与公共关系，从交换机、通讯设备、移动终端到人工智能、物联网，从2G、3G到4G、5G，从物理学、化学、数学到心理学、哲学，从……到……，穿越时空看华为大幕如何徐徐展开，观任正非大家成长进化，向优秀学习，与时代共舞。
+华为视角看世界，任总思维看问题。
+
+### 2023
+* [20230728任总在高端技术人才使用工作组对标会上的讲话](huawei/2023/20230728任总在高端技术人才使用工作组对标会上的讲话.md)
+* [20230224擦亮火花、共创未来](huawei/2023/20230224擦亮火花、共创未来.md)
 
 ### 2022
 
